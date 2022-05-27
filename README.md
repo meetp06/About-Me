@@ -1,6 +1,5 @@
 # 💫About Me :
 🔭 I’m currently a Student at Gandhinagar institute of technology. 
-
 🌱 I’m currently learning more about Flutter Development. 
 
 👯 I’m looking to collaborate on Linkedin. 
