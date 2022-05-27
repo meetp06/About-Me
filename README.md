@@ -1,11 +1,18 @@
 # 💫About Me :
 🔭 I’m currently a Student at Gandhinagar institute of technology. 
+
 🌱 I’m currently learning more about Flutter Development. 
+
 👯 I’m looking to collaborate on Linkedin. 
+
 🤔 I’m looking for help with Developing our community.
+
 💬 Ask me about Flutter or any tech-related stuff.
+
 📫 How to reach me: Twitter - @MeeT_006, Linkedin - Meet Patel
+
 😄 Pronouns: He/His
+
 ⚡ Fun fact: I spend almost 4 to 5 h/d learning more about Flutter, dart, API, Firebase/store, Java, and DSA.
 
 ## 🌐Socials
